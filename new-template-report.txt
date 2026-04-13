@@ -1,0 +1,49 @@
+==============================================================================
+RATE IMPORT REPORT
+Generated: 2026-04-13 20:36:27
+==============================================================================
+Workbook path: ac-test.xlsx
+Output CSV: new-template.csv
+
+OVERVIEW
+- Sheets in workbook: 17
+- Sheets parsed: 17
+- Rows exported: 350
+- Carriers found: 17
+
+STATUS
+- ERROR: none
+- WARN: none
+- RESULT: OK (no errors or warnings)
+
+NUMERIC COMPLETENESS (SUPPORTED SECTIONS ONLY)
+- Numeric values in supported section tables: 661
+- Numeric values parsed into matrix records: 661
+- Numeric values in final output (after transform): 700
+- Note: final count differs due to row transformation rules.
+
+CARRIER COMPLETENESS
+carrier                        | routes | missing_pass | missing_lcv
+--------------------------------------------------------------------
+A1                             |      6 |            0 |           0
+ACE CAR CARRIERS               |      2 |            0 |           0
+ALFIES TOWING                  |      2 |            0 |           0
+AUTOCARE                       |    156 |            0 |           0
+AUTOMOVER                      |     11 |            0 |           0
+CAIRNS CAR CARRIERS            |      6 |            0 |           0
+CAPITAL TOWING                 |      2 |            0 |           0
+CARWAYS                        |     18 |            0 |           0
+GTTKAL                         |      4 |            0 |           0
+HAUL CAR                       |      2 |            0 |           0
+HUNTER UNITED                  |     10 |            0 |           0
+IAT TRANSPORT                  |     18 |            0 |           0
+MACKAY CAR & COMMERCIAL        |      2 |            0 |           0
+MELCREST                       |     42 |            0 |           0
+NEWCASTLE VEHICLE TRANSPORTERS |      2 |            0 |           0
+SHIPPING                       |     11 |            0 |           0
+SMB                            |     56 |            0 |           0
+
+DETAILS
+- Full per-route rates are intentionally omitted for concise reporting.
+- Use new-template.csv for route-level rate data.
+==============================================================================
