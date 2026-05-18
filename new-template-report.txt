@@ -1,6 +1,6 @@
 ==============================================================================
 RATE IMPORT REPORT
-Generated: 2026-04-13 20:36:27
+Generated: 2026-05-15 14:33:24
 ==============================================================================
 Workbook path: ac-test.xlsx
 Output CSV: new-template.csv
@@ -8,7 +8,7 @@ Output CSV: new-template.csv
 OVERVIEW
 - Sheets in workbook: 17
 - Sheets parsed: 17
-- Rows exported: 350
+- Rows exported: 347
 - Carriers found: 17
 
 STATUS
@@ -17,9 +17,9 @@ STATUS
 - RESULT: OK (no errors or warnings)
 
 NUMERIC COMPLETENESS (SUPPORTED SECTIONS ONLY)
-- Numeric values in supported section tables: 661
-- Numeric values parsed into matrix records: 661
-- Numeric values in final output (after transform): 700
+- Numeric values in supported section tables: 665
+- Numeric values parsed into matrix records: 665
+- Numeric values in final output (after transform): 694
 - Note: final count differs due to row transformation rules.
 
 CARRIER COMPLETENESS
@@ -30,7 +30,7 @@ ACE CAR CARRIERS               |      2 |            0 |           0
 ALFIES TOWING                  |      2 |            0 |           0
 AUTOCARE                       |    156 |            0 |           0
 AUTOMOVER                      |     11 |            0 |           0
-CAIRNS CAR CARRIERS            |      6 |            0 |           0
+CAIRNS CAR CARRIERS            |      2 |            0 |           0
 CAPITAL TOWING                 |      2 |            0 |           0
 CARWAYS                        |     18 |            0 |           0
 GTTKAL                         |      4 |            0 |           0
@@ -41,7 +41,7 @@ MACKAY CAR & COMMERCIAL        |      2 |            0 |           0
 MELCREST                       |     42 |            0 |           0
 NEWCASTLE VEHICLE TRANSPORTERS |      2 |            0 |           0
 SHIPPING                       |     11 |            0 |           0
-SMB                            |     56 |            0 |           0
+SMB                            |     57 |            0 |           0
 
 DETAILS
 - Full per-route rates are intentionally omitted for concise reporting.
