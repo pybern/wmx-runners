@@ -275,10 +275,14 @@ from,to,from_state,to_state,pass,lcv,type,carrier,tab,carrier_type,transit,from_
 "ALICE SPRINGS, NT","SYDNEY, NSW",NT,NSW,955.55,1090.91,depot-depot,SMB,new-template,hub,,ALICE SPRINGS,SYDNEY
 "BRISBANE, QLD","ADELAIDE, SA",QLD,SA,600.0,754.54,depot-depot,SMB,new-template,hub,,BRISBANE,ADELAIDE
 "BRISBANE, QLD","ALICE SPRINGS, NT",QLD,NT,1432.32,1727.27,depot-depot,SMB,new-template,hub,,BRISBANE,ALICE SPRINGS
+"BRISBANE, QLD","CAIRNS, QLD",QLD,QLD,1013.63,1240.9,depot-depot,SMB,new-template,hub,,BRISBANE,CAIRNS
 "BRISBANE, QLD","DARWIN, NT",QLD,NT,1454.54,1863.63,depot-depot,SMB,new-template,hub,,BRISBANE,DARWIN
 "BRISBANE, QLD","MELBOURNE, VIC",QLD,VIC,336.36,468.18,depot-depot,SMB,new-template,hub,,BRISBANE,MELBOURNE
+"BRISBANE, QLD","MT ISA, QLD",QLD,QLD,1263.63,1554.54,depot-depot,SMB,new-template,hub,,BRISBANE,MT ISA
 "BRISBANE, QLD","PERTH, WA",QLD,WA,1063.63,1536.36,depot-depot,SMB,new-template,hub,,BRISBANE,PERTH
+"BRISBANE, QLD","ROCKHAMPTON, QLD",QLD,QLD,509.09,645.45,depot-depot,SMB,new-template,hub,,BRISBANE,ROCKHAMPTON
 "BRISBANE, QLD","SYDNEY, NSW",QLD,NSW,227.27,381.82,depot-depot,SMB,new-template,hub,,BRISBANE,SYDNEY
+"BRISBANE, QLD","TOWNSVILLE, QLD",QLD,QLD,845.45,1045.45,depot-depot,SMB,new-template,hub,,BRISBANE,TOWNSVILLE
 "CAIRNS, QLD","BRISBANE, QLD",QLD,QLD,572.72,572.72,depot-depot,SMB,new-template,hub,,CAIRNS,BRISBANE
 "DARWIN, NT","ADELAIDE, SA",NT,SA,327.27,418.18,depot-depot,SMB,new-template,hub,,DARWIN,ADELAIDE
 "DARWIN, NT","ALICE SPRINGS, NT",NT,NT,327.27,418.18,depot-depot,SMB,new-template,hub,,DARWIN,ALICE SPRINGS
