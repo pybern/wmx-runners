@@ -1,6 +1,6 @@
 ==============================================================================
 RATE IMPORT REPORT
-Generated: 2026-06-01 05:01:53
+Generated: 2026-06-01 08:17:35
 ==============================================================================
 Workbook path: ac-test.xlsx
 Output CSV: new-template.csv
@@ -15,6 +15,14 @@ STATUS
 - ERROR: none
 - WARN: none
 - RESULT: OK (no errors or warnings)
+
+MARGIN CONFIGURATION
+- Mode: markup
+- Rounding decimals: None
+- Defaults: pass=0, lcv=0
+- Carrier overrides: none
+- Type overrides: none
+- Carrier/type overrides: none
 
 NUMERIC COMPLETENESS (SUPPORTED SECTIONS ONLY)
 - Numeric values in supported section tables: 669
