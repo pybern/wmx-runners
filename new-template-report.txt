@@ -1,6 +1,6 @@
 ==============================================================================
 RATE IMPORT REPORT
-Generated: 2026-05-15 14:33:24
+Generated: 2026-06-01 05:01:53
 ==============================================================================
 Workbook path: ac-test.xlsx
 Output CSV: new-template.csv
@@ -8,7 +8,7 @@ Output CSV: new-template.csv
 OVERVIEW
 - Sheets in workbook: 17
 - Sheets parsed: 17
-- Rows exported: 347
+- Rows exported: 351
 - Carriers found: 17
 
 STATUS
@@ -17,9 +17,9 @@ STATUS
 - RESULT: OK (no errors or warnings)
 
 NUMERIC COMPLETENESS (SUPPORTED SECTIONS ONLY)
-- Numeric values in supported section tables: 665
-- Numeric values parsed into matrix records: 665
-- Numeric values in final output (after transform): 694
+- Numeric values in supported section tables: 669
+- Numeric values parsed into matrix records: 669
+- Numeric values in final output (after transform): 702
 - Note: final count differs due to row transformation rules.
 
 CARRIER COMPLETENESS
@@ -41,7 +41,7 @@ MACKAY CAR & COMMERCIAL        |      2 |            0 |           0
 MELCREST                       |     42 |            0 |           0
 NEWCASTLE VEHICLE TRANSPORTERS |      2 |            0 |           0
 SHIPPING                       |     11 |            0 |           0
-SMB                            |     57 |            0 |           0
+SMB                            |     61 |            0 |           0
 
 DETAILS
 - Full per-route rates are intentionally omitted for concise reporting.
